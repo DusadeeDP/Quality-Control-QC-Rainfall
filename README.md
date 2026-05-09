@@ -1,5 +1,7 @@
 # Rainfall Data Quality Control (QC) Framework!
 
+<img width="1889" height="853" alt="image" src="https://github.com/user-attachments/assets/0a7d7d45-0dda-4ca1-8d93-e0f4b573d2ad" />
+
 The data processing workflow is divided into three hierarchical stages to ensure the highest reliability of rainfall records:
 
 # 1. Basic Quality Control
